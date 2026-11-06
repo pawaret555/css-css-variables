@@ -24,6 +24,14 @@
   --padding-3: 10px;
   --padding-4: 15px;
   --padding-5: 20px;
+
+  --font-small: 12px;
+  --font-medium: 16px;
+  --font-large: 20px;
+  --font-extra-large: 30px;
+  --font-double-extra-large: 50px;
+  --font-triple-extra-large: 100px;
+
 }
 
 /* Introduction */
